@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-const SetNumOfClicks = 10000;
+const SetNumOfClicks = 100000;
 
 function InsertClick() {
   let NumOfClicks = 0;
