@@ -1,0 +1,8 @@
+.App {
+  max-width: 100%;
+}
+.Container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
